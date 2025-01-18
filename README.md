@@ -1,32 +1,32 @@
 # Westcliff - Week 1
 
-## Projeto Great Cliffs
+## Great Cliffs Project
 
-### Estrutura de Arquivos
+### File Structure
 
-- `index.html`: Página inicial com informações gerais sobre as falésias e logotipo.
-- `activities.html`: Página detalhando as atividades disponíveis nas falésias, incluindo uma tabela com informações relevantes.
-- `contact.html`: Página para contato, incluindo informações de telefone, e-mail e um formulário para envio de mensagens.
-- `images/`: Pasta contendo os arquivos de imagem, incluindo o logotipo e imagens de parceiros.
+- `index.html`: Home page with general information about the cliffs and the logo.
+- `activities.html`: Page detailing available activities at the cliffs, including a table with relevant information.
+- `contact.html`: Contact page with phone, email details, and a functional contact form.
+- `images/`: Folder containing image files, including the logo and partner images.
 
-### Instruções para Visualização
+### Viewing Instructions
 
-1. Certifique-se de que todos os arquivos estejam no mesmo diretório.
-2. Abra o arquivo `index.html` em um navegador para acessar a página inicial.
-3. Navegue para as outras páginas usando os links no menu.
+1. Ensure all files are in the same directory.
+2. Open the `index.html` file in a browser to access the homepage.
+3. Navigate to other pages using the menu links.
 
-### Funcionalidades
+### Features
 
-- Navegação entre as páginas utilizando links internos.
-- Exibição de imagens de logotipo e parceiros.
-- Tabela de atividades com detalhes organizados.
-- Formulário funcional para envio de mensagens na página de contato.
+- Navigation between pages using internal links.
+- Display of logo and partner images.
+- Activity table with organized details.
+- Functional contact form for message submissions on the contact page.
 
-### Ferramentas Recomendadas
+### Recommended Tools
 
-- Editor de código: Visual Studio Code (com Live Server).
-- Navegador: Google Chrome ou qualquer navegador atualizado.
+- Code editor: Visual Studio Code (with Live Server).
+- Browser: Google Chrome or any updated browser.
 
-### Notas
+### Notes
 
-Este projeto foi desenvolvido para fins educacionais no curso da Westcliff University.
+This project was developed for educational purposes in the Westcliff University course.
